@@ -7,4 +7,4 @@ TMemeter有如下特点：<br/>
 > ./build.sh <br/>
 > cd build <br/>
 > cd bin <br/>
-> ./TMeter <connections> <timeout> <ip> <port> <br/>
+> ./TMeter connections timeout ip port <br/>
