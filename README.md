@@ -5,6 +5,5 @@ TMemeter有如下特点：<br/>
 
 使用方法：<br/>
 > ./build.sh <br/>
-> cd build <br/>
-> cd bin <br/>
+> cd ./build/bin <br/>
 > ./TMeter connections timeout ip port <br/>
